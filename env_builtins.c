@@ -1,7 +1,7 @@
 /*
  * File: env_builtins.c
- * Auth: Alex Yu
- *       Brennan D Baraban
+ * Auth: Obuji Chukwuemeka
+ *       Janet Dickson
  */
 
 #include "shell.h"
